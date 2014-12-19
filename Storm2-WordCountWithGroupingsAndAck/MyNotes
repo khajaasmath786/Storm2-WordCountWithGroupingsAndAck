@@ -1,0 +1,2 @@
+//2 instances of spout are created here. For expected output run the examples from the groupings.
+builder.setSpout(SENTENCE_SPOUT_ID, spout, 2);
